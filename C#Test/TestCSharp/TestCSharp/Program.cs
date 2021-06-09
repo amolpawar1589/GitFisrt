@@ -12,6 +12,11 @@ namespace TestCSharp
         {
             return (a + b);
         }
+        
+         public int Sub(int a,int b)
+        {
+            return (a - b);
+        }
 
         static void Main(string[] args)
         {
@@ -19,6 +24,7 @@ namespace TestCSharp
             //explicit constructor
             Program p = new Program();
             p.add(1,1);
+            p.Sub(1,1);
             Console.WriteLine(p.i);
             Console.WriteLine(p.s);
             Console.WriteLine(p.b);
