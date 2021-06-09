@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj": {}
+    "D:\\Amol\\My Git\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj": {}
   },
   "projects": {
-    "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj": {
+    "D:\\Amol\\My Git\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
+        "projectUniqueName": "D:\\Amol\\My Git\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
         "projectName": "TestCSharp",
-        "projectPath": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
+        "projectPath": "D:\\Amol\\My Git\\C#Test\\TestCSharp\\TestCSharp\\TestCSharp.csproj",
         "packagesPath": "C:\\Users\\apawar12\\.nuget\\packages\\",
-        "outputPath": "D:\\GitTutorial\\C#Test\\TestCSharp\\TestCSharp\\obj\\",
+        "outputPath": "D:\\Amol\\My Git\\C#Test\\TestCSharp\\TestCSharp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\apawar12\\AppData\\Roaming\\NuGet\\NuGet.Config",

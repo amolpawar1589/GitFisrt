@@ -19,3 +19,14 @@ D:\GitTutorial\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.d
 D:\GitTutorial\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.pdb
 D:\GitTutorial\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.dll
 D:\GitTutorial\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.pdb
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.exe
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.deps.json
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.json
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.runtimeconfig.dev.json
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.dll
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\bin\Debug\netcoreapp3.1\TestCSharp.pdb
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.csprojAssemblyReference.cache
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfoInputs.cache
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.AssemblyInfo.cs
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.dll
+D:\Amol\My Git\C#Test\TestCSharp\TestCSharp\obj\Debug\netcoreapp3.1\TestCSharp.pdb
