@@ -17,6 +17,11 @@ namespace TestCSharp
         {
             return (a - b);
         }
+        
+            public int Multi(int a,int b)
+        {
+            return (a * b);
+            }
 
         static void Main(string[] args)
         {
@@ -25,6 +30,7 @@ namespace TestCSharp
             Program p = new Program();
             p.add(1,1);
             p.Sub(1,1);
+            p.Multi(1,1);
             Console.WriteLine(p.i);
             Console.WriteLine(p.s);
             Console.WriteLine(p.b);
